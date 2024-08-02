@@ -1,0 +1,8 @@
+.news {
+  width: 100%;
+  background-color: rgb(245, 245, 164);
+  margin-bottom: 1.5rem;
+  text-align: left;
+  border-radius: 5px;
+  padding: 6px;
+}
